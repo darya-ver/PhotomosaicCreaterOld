@@ -13,7 +13,7 @@ import math
 from PIL import Image
 
 #
-#   runs all the methods together TODO still need to edit this
+#   runs all the methods together
 #
 def main():
 
